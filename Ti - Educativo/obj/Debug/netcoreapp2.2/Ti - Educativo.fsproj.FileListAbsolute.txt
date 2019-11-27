@@ -1,0 +1,13 @@
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Ti - Educativo.deps.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Ti - Educativo.runtimeconfig.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Ti - Educativo.runtimeconfig.dev.json
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Ti - Educativo.dll
+C:\Projects\Ti - Educativo\Ti - Educativo\bin\Debug\netcoreapp2.2\Ti - Educativo.pdb
+C:\Projects\Ti - Educativo\Ti - Educativo\obj\Debug\netcoreapp2.2\Ti - Educativo.fsprojAssemblyReference.cache
+C:\Projects\Ti - Educativo\Ti - Educativo\obj\Debug\netcoreapp2.2\Ti - Educativo.AssemblyInfoInputs.cache
+C:\Projects\Ti - Educativo\Ti - Educativo\obj\Debug\netcoreapp2.2\Ti - Educativo.AssemblyInfo.fs
+C:\Projects\Ti - Educativo\Ti - Educativo\obj\Debug\netcoreapp2.2\Ti - Educativo.dll
+C:\Projects\Ti - Educativo\Ti - Educativo\obj\Debug\netcoreapp2.2\Ti - Educativo.pdb
