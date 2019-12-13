@@ -23,7 +23,7 @@ var arrayItemText = ["Gerenciamento de requisitos", "Planejamento do projeto", "
 "Definição do processo organizacional", "Treinamento organizacional", "Análise de decisão e resolução", "Gerenciamento quantitativo do projeto", "Desempenho do processo organizacional",
 "Inovação e implantação organizacional", "Análise e resolução de causas"];
 
-//shuffle(arrayItemText);
+shuffle(arrayItemText);
 
 for (let index = 0; index < 22; index++) {
 	var nodeItem = document.createElement("div");
