@@ -37,12 +37,20 @@ rightContainer.style.cssText = "width: 1500px; height: 2000px; float: left; padd
 document.getElementById("body").appendChild(rightContainer);
 
 
+var nodeName = document.createElement("h1");
+nodeName.innerText = "Controles";
+nodeName.style.cssText += "overflow: hidden; height: 2.4em;";
 
 var node = document.createElement("div");
 node.id = "grupo20";
 node.className += "list-group shadow";
 node.style.cssText += "width: 300px; height: auto; background-color: white; padding: 5px; margin: 15px; border: 1px solid whitesmoke; border-radius: 4px;";
-document.getElementById("left-container").appendChild(node); 
+
+var controles = document.createElement("div");
+controles.style.cssText = "margin-top: 40px;";
+controles.appendChild(nodeName);
+controles.appendChild(node);
+document.getElementById("left-container").appendChild(controles); 
 
 var grupo20 = document.getElementById("grupo20");
 
